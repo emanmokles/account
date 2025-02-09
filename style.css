@@ -397,4 +397,8 @@ header .header-content img {
 #contact .row {
   padding: 2rem 1rem;
 }
+   header .header-content .content-text{
+    margin-bottom: 0rem;
+    margin-top: 5rem;
+  }
 }
